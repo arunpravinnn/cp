@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arunpravinnn/cp/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arunpravinnn/cp/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arunpravinnn/cp/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
