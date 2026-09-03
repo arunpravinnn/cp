@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/arunpravinnn/cp/tree/master/0036-valid-sudoku) |
 | [0238-product-of-array-except-self](https://github.com/arunpravinnn/cp/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/arunpravinnn/cp/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/arunpravinnn/cp/tree/master/0143-reorder-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/arunpravinnn/cp/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
