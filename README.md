@@ -55,8 +55,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/arunpravinnn/cp/tree/master/0143-reorder-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arunpravinnn/cp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/arunpravinnn/cp/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arunpravinnn/cp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arunpravinnn/cp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
