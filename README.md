@@ -56,6 +56,7 @@ This is a repo that automatically updates with the qns I solve on leetcode - Cre
 | ------- |
 | [0020-valid-parentheses](https://github.com/arunpravinnn/cp/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/arunpravinnn/cp/tree/master/0143-reorder-list) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/arunpravinnn/cp/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arunpravinnn/cp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ This is a repo that automatically updates with the qns I solve on leetcode - Cre
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arunpravinnn/cp/tree/master/0020-valid-parentheses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/arunpravinnn/cp/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arunpravinnn/cp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
